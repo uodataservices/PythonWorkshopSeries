@@ -14,9 +14,6 @@ University of Oregon Libraries
 T: (541) 346-3053
 F: (541) 346-3485
 
-<
-<
-<
 
 Author: Jay Matonte
 PPPM - Graduate Student -- 
