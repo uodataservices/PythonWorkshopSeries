@@ -1,7 +1,7 @@
 # PythonWorkshopSeries
 University of Oregon Data Services Workshop Materials
 
-The material in this GitHub repository is publicly available and free to use. It is a compilation of Python workshops from Data Services of the University of Oregon Library System.
+The material in this GitHub repository is publicly available and free to use. It is a compilation of Python workshops and corresponding materials from Data Services of the University of Oregon Library System.
 
 CONTACT:
 
