@@ -15,6 +15,6 @@ F: (541) 346-3485
 
 
 Author of Workshops, Workshop Material, and GitHub Repository:
-Jay Matonte
-Data Services GE
+Jay Matonte |
+Data Services GE |
 jmatonte@uoregon.edu
